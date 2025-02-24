@@ -22,7 +22,7 @@ const Navbar = () => {
             <div className="flex items-center flex-shrink-0">
                 {/*This part is for the Logo and title that will display at the top left of the webpage */}
                 <img className="h-10 w-10 mr-2" src={logo} alt="Studio Logo" />
-                <span className="text-xl tracking-tight">Saamer Simulation Development</span> 
+                <span className="text-xl tracking-tight">Saamer Simulation Dev</span> 
             </div>
             {/*This part is for the quick link navigation bar at the top of the webpage */}
             <ul className="hidden lg:flex ml-14 space-x-12">
