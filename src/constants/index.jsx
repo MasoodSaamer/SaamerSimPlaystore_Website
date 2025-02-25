@@ -174,7 +174,7 @@ export const pricingOptions = [
 
 export const resourcesLinks = [
   { href: "https://play.google.com/store/apps/dev?id=5128778655876625840", text: "Official Store Page" },
-  { href: "https://www.youtube.com/channel/UCvAhLOZzsV9O-Co8DbJJ8Cg", text: "Youtube" },
+  { href: "https://www.saamermasood.org/", text: "About the Developer" },
   { href: "https://www.instagram.com/protocol_studioz/?igsh=MTBzYjhyanliMnR5Yw%3D%3D#", text: "Instagram" },
   
 ];
