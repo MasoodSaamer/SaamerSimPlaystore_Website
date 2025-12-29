@@ -16,7 +16,7 @@ const HeroSection = () => {
         Here I focus on making realistic & high performance mobile car simulation games, optimized in space & size so every device can play
         </p>
         <div className="flex justify-center my-10">
-            <a href="https://play.google.com/store/apps/dev?id=5128778655876625840" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from bg-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md hover:bg-orange-600 hover:to-orange-900 hover:text-white">
+            <a href="https://play.google.com/store/apps/dev?id=6892059516122641709" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from bg-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md hover:bg-orange-600 hover:to-orange-900 hover:text-white">
                 Official Studio Page
             </a>
             <a href="/privacy-policy" target="_blank" rel="noopener noreferrer" className="py-3 px-4 mx-3 rounded-md border hover:bg-gray-800 hover:to-gray-950 hover:text-white">
